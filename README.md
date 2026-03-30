@@ -8,6 +8,10 @@ Se trata de un prototipo de juego de plataformas desarrollado durante un curso, 
 
 El objetivo principal fue comprender cómo estructurar la lógica del juego, interactuar con el motor y desarrollar sistemas fundamentales.
 
+## 🎮 Gameplay
+
+https://youtu.be/vA5EeI9VovI?si=LLKOSStitp_lpzR6
+
 ## ⚙️ Características implementadas
 
 * Sistema de movimiento del personaje
