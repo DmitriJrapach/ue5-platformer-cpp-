@@ -1,55 +1,44 @@
-# UE5 Platformer C++ (Learning Project)
+UE5 Platformer (C++ Gameplay Systems)
+📌 Overview
 
-Este proyecto forma parte de mi proceso de aprendizaje en desarrollo de videojuegos con Unreal Engine 5 y C++.
+This project is a gameplay prototype developed in Unreal Engine 5 using C++ and Blueprints, focused on implementing core platformer mechanics and game systems.
 
-## 📌 Descripción
+It demonstrates the development of fundamental gameplay features, system structure, and interaction between C++ and Unreal Engine components.
 
-Se trata de un prototipo de juego de plataformas desarrollado durante un curso, enfocado en la implementación de mecánicas básicas de gameplay utilizando C++ dentro de Unreal Engine.
-
-El objetivo principal fue comprender cómo estructurar la lógica del juego, interactuar con el motor y desarrollar sistemas fundamentales.
-
-## 🎮 Gameplay
+🎮 Gameplay
 
 https://youtu.be/vA5EeI9VovI?si=LLKOSStitp_lpzR6
 
-## ⚙️ Características implementadas
+⚙️ Features
+Character movement and controller system
+Platforming mechanics and level interaction
+Collectible system (coins)
+Respawn system
+Game state and win condition logic
+Basic HUD and UI systems
+Level transitions and progression
+🛠️ Tech Stack
+Unreal Engine 5
+C++
+Blueprints
+🧠 Technical Focus
+Gameplay programming in C++
+Integration between C++ and Blueprints
+Modular system design
+Separation of gameplay responsibilities
+📂 Project Structure
+Source/ → Core gameplay logic implemented in C++
+Config/ → Project configuration
+.uproject → Unreal Engine project file
 
-* Sistema de movimiento del personaje
-* Recolección de monedas
-* Plataformas interactivas
-* Sistema de respawn
-* Condición de victoria
-* HUD básico
-* Menú simple
-* Transición entre niveles
+Note: The Content/ folder is not included to keep the repository lightweight.
 
-## 🛠️ Tecnologías utilizadas
+🚀 Current Status
 
-* Unreal Engine 5
-* C++
-* Blueprints (para integración con el motor)
+Completed as a gameplay systems prototype.
 
-## 📂 Estructura del proyecto
+Currently working on more advanced systems including FPS mechanics, combat systems, and AI behavior.
 
-* `Source/` → Lógica principal del juego implementada en C++
-* `Config/` → Configuración del proyecto
-* `.uproject` → Archivo principal del proyecto Unreal
+👨‍💻 Author
 
-> Nota: Este repositorio no incluye la carpeta `Content/` para mantener el tamaño liviano. Los assets (modelos, animaciones, mapas, etc.) no están incluidos.
-
-## 🎯 Objetivo del proyecto
-
-Este proyecto no está pensado como producto final, sino como una base de aprendizaje para:
-
-* Comprender la arquitectura de Unreal Engine
-* Aplicar lógica de programación en C++
-* Construir sistemas de gameplay desde cero
-
-## 📈 Estado
-
-Finalizado como parte del módulo de plataformas del curso.
-Actualmente avanzando hacia el desarrollo de un proyecto FPS en C++.
-
-## 👨‍💻 Autor
-
-Desarrollador enfocado en gameplay programming con Unreal Engine y C++, en proceso de formación con objetivo de crear videojuegos independientes.
+Gameplay Programmer focused on Unreal Engine (C++) and systems development.
