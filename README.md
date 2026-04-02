@@ -17,15 +17,18 @@ Respawn system
 Game state and win condition logic
 Basic HUD and UI systems
 Level transitions and progression
+
 🛠️ Tech Stack
 Unreal Engine 5
 C++
 Blueprints
+
 🧠 Technical Focus
 Gameplay programming in C++
 Integration between C++ and Blueprints
 Modular system design
 Separation of gameplay responsibilities
+
 📂 Project Structure
 Source/ → Core gameplay logic implemented in C++
 Config/ → Project configuration
